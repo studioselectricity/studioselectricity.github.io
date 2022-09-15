@@ -7,16 +7,16 @@
 ## Fact Sheet
 
 - Developer: Electricity Studios (just a solo dev - Greg Wilk - typing away from the UK)
-- Release Date: TBD
+- Release Date: 15th September 2022
 - Platform: Oculus Quest 2
 - Price: 9.99$
 - Language: English
 - Contact: studioselectricity@gmail.com
-- Storepage: TBD
+- Storepage: https://www.oculus.com/experiences/quest/7710148255723398/
 
 ## Trailer
 
-[Link to YouTube](url) (TBD)
+[Link to YouTube](https://youtu.be/gDs67FJsAZY)
 
 ## Description
 
